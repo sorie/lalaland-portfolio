@@ -131,7 +131,7 @@ const Portfolio = () => {
             
             <img 
               className="w-32 h-32 object-cover mx-auto mb-8 rounded-full flex items-center justify-center"
-              src="/images/sori.jpeg" 
+              src="../public/images/sori.jpeg" 
               alt="프로필" />
           </motion.div>
 
