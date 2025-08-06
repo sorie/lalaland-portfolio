@@ -10,12 +10,12 @@ const Portfolio = () => {
   const sections = ['home', 'about', 'skills', 'contact'];
 
   const skills = [
-    { name: 'React', level: 90, color: 'bg-blue-500' },
-    { name: 'JavaScript', level: 95, color: 'bg-yellow-500' },
     { name: 'HTML/CSS', level: 98, color: 'bg-orange-500' },
-    { name: 'Node.js', level: 85, color: 'bg-green-500' },
-    { name: 'TypeScript', level: 80, color: 'bg-blue-600' },
+    { name: 'JavaScript', level: 95, color: 'bg-yellow-500' },
     { name: 'GSAP', level: 75, color: 'bg-purple-500' },
+    { name: 'Vue', level: 40, color: 'bg-green-500' },
+    { name: 'React', level: 30, color: 'bg-blue-500' },
+    { name: 'Node', level: 20, color: 'bg-blue-600' },
   ];
 
   useEffect(() => {
